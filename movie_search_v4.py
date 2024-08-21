@@ -160,7 +160,7 @@ def show_full_overview(overview):
         messagebox.showerror("錯誤", f"顯示完整簡介時出錯: {e}")
         
 #api key
-api_key = "e824fdd6b821e1270910c2f708356781"
+api_key = "api_key_here"
 
 # 建立主視窗
 root = tk.Tk()
